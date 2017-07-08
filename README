@@ -1,5 +1,0 @@
-To start the server, execute httpd.py.
-
-Commandline switches are available through './httpd.py -h'.
-
-Per default it runs on port 8080 in verbose mode.
