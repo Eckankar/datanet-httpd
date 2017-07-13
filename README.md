@@ -4,6 +4,10 @@ A simple HTTPd I implemented for the course Datanet at [DIKU](http://www.diku.dk
 
 This is student code implemented for a university course, so it's not at all production ready.
 
+# Requirements
+
+Requires Python 2.
+
 # Usage
 
 To start the server, execute `./httpd.py`.
